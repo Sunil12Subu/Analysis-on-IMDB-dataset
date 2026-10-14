@@ -51,4 +51,4 @@ jupyter notebook notebooks/imdb_analysis.ipynb
 
 ---
 
-*Part of a data analysis portfolio by [Sunil Subramaniam Sreedhar](https://linkedin.com/in/sunil-subramaniam-sreedhar) — Senior Data Analyst based in Dortmund, Germany.*
+*Part of a data analysis portfolio by [Sunil Subramaniam Sreedhar](https://linkedin.com/in/sunil-subramaniam-sreedhar)*
